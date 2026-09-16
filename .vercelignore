@@ -1,0 +1,8 @@
+# Nao publicar: documentacao interna, arte-bruta enviada pelo cliente e config de outra hospedagem
+LEIA-ME.md
+PROMPTS-IMAGENS.md
+_headers
+design-system/
+.claude/
+logo.jpg
+REFERENCIA.jpg
