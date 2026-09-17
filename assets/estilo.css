@@ -1,11 +1,11 @@
 /* ==========================================================================
-   Center Cell — folhas de estilo
+   Center Cell: folhas de estilo
    Assistência técnica + loja de eletrônicos, Vespasiano - MG
    ========================================================================== */
 
 :root {
   /* --- Cor: verde profundo + dourado (extraído por amostragem de pixel da
-     logo original — #F5CE07 dourado, #04230A~#073C07 verde escuro) --- */
+     logo original: #F5CE07 dourado, #04230A~#073C07 verde escuro) --- */
   --fundo: #071B0D;
   --fundo-alt: #0A2412;
   --superficie: #0E2E18;
